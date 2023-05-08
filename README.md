@@ -38,7 +38,3 @@ The file structure of the project follows standard Node.js and Express file stru
 ## Contributing
 
 If you would like to contribute to the project, please feel free to submit a pull request. We welcome contributions from everyone!
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
